@@ -162,14 +162,14 @@ a:hover {
 	padding:50px;
 }
 .box i {
-	color:#3385ff;
+	color:#fff;
 	border-radius:50%;
 	padding:20px;
-	background:#fff;
+	background:#3385ff;
 }
 .box i:hover {
-	color:#fff;
-	background:#3385ff;
+	color:#3385ff;
+	background:#fff;
 }
 
 /*===========================
